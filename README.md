@@ -245,3 +245,15 @@ Qlik sense
 ![](readme/Aspose.Words.2027b2d3-7b1c-4c2b-9784-ce38b7404176.025.jpeg)
 
 
+
+
+### RapidMiner 
+
+
+![](readme/market_analysis.png)
+
+![](readme/time_series_holt_winters.png)
+
+
+![](readme/prediccion_time_holt_winters.png)
+
