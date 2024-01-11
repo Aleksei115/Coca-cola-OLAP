@@ -1,0 +1,233 @@
+id_geo,nombre_estado,nombre_ciudad,region,pais,nivel
+GEO-0001,Aguascalientes,Aguascalientes,Centro,México,1
+GEO-0002,Aguascalientes,Calvillo,Centro,México,1
+GEO-0003,Aguascalientes,Jesus Maria,Centro,México,1
+GEO-0004,Baja California,Ensenada,Noroeste,México,1
+GEO-0005,Baja California,Mexicali,Noroeste,México,1
+GEO-0006,Baja California,Tijuana,Noroeste,México,1
+GEO-0007,Baja California Sur,La Paz,Noroeste,México,1
+GEO-0008,Baja California Sur,Loreto,Noroeste,México,1
+GEO-0009,Baja California Sur,Comondú,Noroeste,México,1
+GEO-0010,Chihuahua,Chihuahua,Norte,México,1
+GEO-0011,Chihuahua,Ciudad Juárez,Norte,México,1
+GEO-0012,Chihuahua,Parral,Norte,México,1
+GEO-0013,Coahuila,Saltillo,Norte,México,1
+GEO-0014,Coahuila,Monclova,Norte,México,1
+GEO-0015,Coahuila,Piedras Negras,Norte,México,1
+GEO-0016,Colima,Colima,Occidente,México,1
+GEO-0017,Colima,Manzanillo,Occidente,México,1
+GEO-0018,Colima,Tecomán,Occidente,México,1
+GEO-0019,Durango,Durango,Noroeste,México,1
+GEO-0020,Durango,Gómez Palacio,Noroeste,México,1
+GEO-0021,Durango,Lerdo,Noroeste,México,1
+GEO-0022,Guanajuato,León,Centro,México,1
+GEO-0023,Guanajuato,Irapuato,Centro,México,1
+GEO-0024,Guanajuato,Silao,Centro,México,1
+GEO-0025,Guerrero,Chilpancingo,Sur,México,1
+GEO-0026,Guerrero,Acapulco,Sur,México,1
+GEO-0027,Guerrero,Zihuatanejo,Sur,México,1
+GEO-0028,Hidalgo,Pachuca,Centro,México,1
+GEO-0029,Hidalgo,Tulancingo,Centro,México,1
+GEO-0030,Hidalgo,Tepeji del Río,Centro,México,1
+GEO-0031,Jalisco,Guadalajara,Occidente,México,1
+GEO-0032,Jalisco,Zapopan,Occidente,México,1
+GEO-0033,Jalisco,Tlaquepaque,Occidente,México,1
+GEO-0034,Jalisco,Tonala,Occidente,México,1
+GEO-0035,México,Toluca,Centro,México,1
+GEO-0036,México,Naucalpan,Centro,México,1
+GEO-0037,México,Ecatepec,Centro,México,1
+GEO-0038,Michoacán,Morelia,Occidente,México,1
+GEO-0039,Michoacán,Uruapan,Occidente,México,1
+GEO-0040,Michoacán,Lázaro Cárdenas,Occidente,México,1
+GEO-0041,Morelos,Cuernavaca,Centro,México,1
+GEO-0042,Morelos,Cuautla,Centro,México,1
+GEO-0043,Morelos,Jiutepec,Centro,México,1
+GEO-0044,Nayarit,Tepic,Noroeste,México,1
+GEO-0045,Nayarit,Tecuala,Noroeste,México,1
+GEO-0046,Nayarit,Ixtlán del Río,Noroeste,México,1
+GEO-0047,Nuevo León,Monterrey,Norte,México,1
+GEO-0048,Nuevo León,San Nicolás de los Garza,Norte,México,1
+GEO-0049,Nuevo León,Guadalupe,Norte,México,1
+GEO-0050,Oaxaca,Oaxaca,Sur,México,1
+GEO-0051,Oaxaca,Santa Cruz Xoxocotlán,Sur,México,1
+GEO-0052,Oaxaca,San Juan Bautista Tuxtepec,Sur,México,1
+GEO-0053,Puebla,Puebla,Centro,México,1
+GEO-0054,Puebla,Tehuacán,Centro,México,1
+GEO-0055,Puebla,San Martín Texmelucan,Centro,México,1
+GEO-0056,Querétaro,Querétaro,Centro,México,1
+GEO-0057,Querétaro,San Juan del Río,Centro,México,1
+GEO-0058,Querétaro,Corregidora,Centro,México,1
+GEO-0059,Quintana Roo,Cancún,Sureste,México,1
+GEO-0060,Quintana Roo,Playa del Carmen,Sureste,México,1
+GEO-0061,Quintana Roo,Chetumal,Sureste,México,1
+GEO-0062,San Luis Potosí,San Luis Potosí,Centro,México,1
+GEO-0063,San Luis Potosí,Soledad de Graciano Sánchez,Centro,México,1
+GEO-0064,San Luis Potosí,Rioverde,Centro,México,1
+GEO-0065,Sinaloa,Culiacán,Noroeste,México,1
+GEO-0066,Sinaloa,Mazatlán,Noroeste,México,1
+GEO-0067,Sinaloa,Los Mochis,Noroeste,México,1
+GEO-0068,Sonora,Hermosillo,Noroeste,México,1
+GEO-0069,Sonora,Ciudad Obregón,Noroeste,México,1
+GEO-0070,Sonora,Nogales,Noroeste,México,1
+GEO-0071,Tabasco,Villahermosa,Golfo,México,1
+GEO-0072,Tabasco,Cárdenas,Golfo,México,1
+GEO-0073,Tabasco,Huimanguillo,Golfo,México,1
+GEO-0074,Tamaulipas,Ciudad Victoria,Golfo,México,1
+GEO-0075,Tamaulipas,Tampico,Golfo,México,1
+GEO-0076,Tamaulipas,Reynosa,Golfo,México,1
+GEO-0077,Tlaxcala,Tlaxcala,Centro,México,1
+GEO-0078,Tlaxcala,Huamantla,Centro,México,1
+GEO-0079,Tlaxcala,Santa Ana Chiautempan,Centro,México,1
+GEO-0080,Veracruz,Xalapa,Golfo,México,1
+GEO-0081,Veracruz,Veracruz,Golfo,México,1
+GEO-0082,Veracruz,Córdoba,Golfo,México,1
+GEO-0083,Yucatán,Mérida,Sureste,México,1
+GEO-0084,Yucatán,Valladolid,Sureste,México,1
+GEO-0085,Yucatán,Tizimín,Sureste,México,1
+GEO-0086,Zacatecas,Zacatecas,Centro,México,1
+GEO-0087,Zacatecas,Fresnillo,Centro,México,1
+GEO-0088,Zacatecas,Río Grande,Centro,México,1
+GEO-0089,Campeche,Campeche,Sureste,México,1
+GEO-0090,Campeche,Ciudad del Carmen,Sureste,México,1
+GEO-0091,Campeche,Escárcega,Sureste,México,1
+GEO-0092,Ciudad de México,Iztapalapa,Sureste,México,1
+GEO-0093,Ciudad de México,Coyoacán,Sureste,México,1
+GEO-0094,Ciudad de México,Benito Juárez,Sureste,México,1
+GEO-0095,,,Centro,,2
+GEO-0096,,,Golfo,,2
+GEO-0097,,,Noroeste,,2
+GEO-0098,,,Occidente,,2
+GEO-0099,,,Sureste,,2
+GEO-0100,,,Sur,,2
+GEO-0101,,,Norte,,2
+GEO-0102,,,,México,3
+GEO-0103,Aguascalientes,,,,4
+GEO-0104,Baja California,,,,4
+GEO-0105,Baja California Sur,,,,4
+GEO-0106,Campeche,,,,4
+GEO-0107,Chihuahua,,,,4
+GEO-0108,Coahuila,,,,4
+GEO-0109,Colima,,,,4
+GEO-0110,Durango,,,,4
+GEO-0111,Guanajuato,,,,4
+GEO-0112,Guerrero,,,,4
+GEO-0113,Hidalgo,,,,4
+GEO-0114,Jalisco,,,,4
+GEO-0115,México,,,,4
+GEO-0116,Michoacán,,,,4
+GEO-0117,Morelos,,,,4
+GEO-0118,Nayarit,,,,4
+GEO-0119,Nuevo León,,,,4
+GEO-0120,Oaxaca,,,,4
+GEO-0121,Puebla,,,,4
+GEO-0122,Querétaro,,,,4
+GEO-0123,Quintana Roo,,,,4
+GEO-0124,San Luis Potosí,,,,4
+GEO-0125,Sinaloa,,,,4
+GEO-0126,Sonora,,,,4
+GEO-0127,Tabasco,,,,4
+GEO-0128,Tamaulipas,,,,4
+GEO-0129,Tlaxcala,,,,4
+GEO-0130,Veracruz,,,,4
+GEO-0131,Yucatán,,,,4
+GEO-0132,Zacatecas,,,,4
+GEO-0133,Ciudad de México,,,,4
+GEO-0134,,Aguascalientes,,,5
+GEO-0135,,Calvillo,,,5
+GEO-0136,,Jesus Maria,,,5
+GEO-0137,,Tijuana,,,5
+GEO-0138,,Mexicali,,,5
+GEO-0139,,Ensenada,,,5
+GEO-0140,,La Paz,,,5
+GEO-0141,,Los Cabos,,,5
+GEO-0142,,Comondu,,,5
+GEO-0143,,Campeche,,,5
+GEO-0144,,Carmen,,,5
+GEO-0145,,Escarcega,,,5
+GEO-0146,,Tuxtla Gutierrez,,,5
+GEO-0147,,San Cristobal de las Casas,,,5
+GEO-0148,,Tapachula,,,5
+GEO-0149,,Chihuahua,,,5
+GEO-0150,,Ciudad Juarez,,,5
+GEO-0151,,Parral,,,5
+GEO-0152,,Saltillo,,,5
+GEO-0153,,Torreon,,,5
+GEO-0154,,Monclova,,,5
+GEO-0155,,Colima,,,5
+GEO-0156,,Manzanillo,,,5
+GEO-0157,,Tecoman,,,5
+GEO-0158,,Durango,,,5
+GEO-0159,,Gomez Palacio,,,5
+GEO-0160,,Lerdo,,,5
+GEO-0161,,Toluca,,,5
+GEO-0162,,Ecatepec,,,5
+GEO-0163,,Naucalpan,,,5
+GEO-0164,,Leon,,,5
+GEO-0165,,Celaya,,,5
+GEO-0166,,Irapuato,,,5
+GEO-0167,,Acapulco,,,5
+GEO-0168,,Chilpancingo,,,5
+GEO-0169,,Zihuatanejo,,,5
+GEO-0170,,Pachuca,,,5
+GEO-0171,,Tulancingo,,,5
+GEO-0172,,Tizayuca,,,5
+GEO-0173,,Guadalajara,,,5
+GEO-0174,,Zapopan,,,5
+GEO-0175,,Tlaquepaque,,,5
+GEO-0176,,Morelia,,,5
+GEO-0177,,Uruapan,,,5
+GEO-0178,,La Piedad,,,5
+GEO-0179,,Cuernavaca,,,5
+GEO-0180,,Cuautla,,,5
+GEO-0181,,Jiutepec,,,5
+GEO-0182,,Tepic,,,5
+GEO-0183,,Bahia de Banderas,,,5
+GEO-0184,,Santiago Ixcuintla,,,5
+GEO-0185,,Monterrey,,,5
+GEO-0186,,Guadalupe,,,5
+GEO-0187,,San Nicolas,,,5
+GEO-0188,,Oaxaca,,,5
+GEO-0189,,Santa Cruz Xoxocotlan,,,5
+GEO-0190,,San Juan Bautista Tuxtepec,,,5
+GEO-0191,,Puebla,,,5
+GEO-0192,,Tehuacan,,,5
+GEO-0193,,San Pedro Cholula,,,5
+GEO-0194,,Queretaro,,,5
+GEO-0195,,San Juan del Rio,,,5
+GEO-0196,,Corregidora,,,5
+GEO-0197,,Cancun,,,5
+GEO-0198,,Playa del Carmen,,,5
+GEO-0199,,Chetumal,,,5
+GEO-0200,,San Luis Potosi,,,5
+GEO-0201,,Soledad de Graciano Sanchez,,,5
+GEO-0202,,Rioverde,,,5
+GEO-0203,,Culiacan,,,5
+GEO-0204,,Mazatlan,,,5
+GEO-0205,,Los Mochis,,,5
+GEO-0206,,Hermosillo,,,5
+GEO-0207,,Guaymas,,,5
+GEO-0208,,Navojoa,,,5
+GEO-0209,,Villahermosa,,,5
+GEO-0210,,Cardenas,,,5
+GEO-0211,,Comalcalco,,,5
+GEO-0212,,Tampico,,,5
+GEO-0213,,Reynosa,,,5
+GEO-0214,,Matamoros,,,5
+GEO-0215,,Tlaxcala,,,5
+GEO-0216,,Huamantla,,,5
+GEO-0217,,Apizaco,,,5
+GEO-0218,,Veracruz,,,5
+GEO-0219,,Xalapa,,,5
+GEO-0220,,Coatzacoalcos,,,5
+GEO-0221,,Merida,,,5
+GEO-0222,,Valladolid,,,5
+GEO-0223,,Progreso,,,5
+GEO-0224,,Zacatecas,,,5
+GEO-0225,,Fresnillo,,,5
+GEO-0226,,Jerez,,,5
+GEO-0227,,Iztapalapa,,,5
+GEO-0228,,Coyoacán,,,5
+GEO-0229,,Benito Juárez,,,5
+
+
+

@@ -1,0 +1,51 @@
+id_producto,nombre_producto,desc_producto,es_gaseoso,precio_unitario,mililitros,precio_venta
+P-1001,Coca-Cola,Refresco de cola gaseoso,True,5.99,350.0,11.072350305118851
+P-1002,Coca-Cola,Refresco de cola gaseoso,True,7.99,600.0,13.324132293690914
+P-1003,Coca-Cola,Refresco de cola gaseoso,True,9.98,1000.0,18.01748886639352
+P-1004,Coca-Cola,Refresco de cola gaseoso,True,12.98,2500.0,22.51395660464725
+P-1005,Coca-Cola,Refresco de cola gaseoso,True,15.98,3000.0,29.58723947661551
+P-1006,Pepsi,Refresco de cola gaseoso,True,4.99,350.0,8.749666551486108
+P-1007,Pepsi,Refresco de cola gaseoso,True,6.99,600.0,13.091700513124277
+P-1008,Pepsi,Refresco de cola gaseoso,True,8.99,1000.0,14.446405708577949
+P-1009,Pepsi,Refresco de cola gaseoso,True,10.98,2500.0,20.759048165278347
+P-1010,Pepsi,Refresco de cola gaseoso,True,13.98,3000.0,26.04287439757825
+P-1011,Sprite,Refresco de lima-limón gaseoso,True,3.99,350.0,7.518825497427843
+P-1012,Sprite,Refresco de lima-limón gaseoso,True,5.99,600.0,9.687660559870835
+P-1013,Sprite,Refresco de lima-limón gaseoso,True,7.99,1000.0,13.583223265404364
+P-1014,Sprite,Refresco de lima-limón gaseoso,True,9.98,2500.0,18.881873144775312
+P-1015,Sprite,Refresco de lima-limón gaseoso,True,12.98,3000.0,23.148855461067672
+P-1016,Fanta,Refresco de naranja gaseoso,True,3.49,350.0,6.078401050732285
+P-1017,Fanta,Refresco de naranja gaseoso,True,5.49,600.0,10.342179175741965
+P-1018,Fanta,Refresco de naranja gaseoso,True,7.49,1000.0,14.159222665727285
+P-1019,Fanta,Refresco de naranja gaseoso,True,9.48,2500.0,17.83047840009889
+P-1020,Fanta,Refresco de naranja gaseoso,True,12.48,3000.0,20.365496145603004
+P-1021,Manzanita Sol,Refresco de manzana gaseoso,True,3.99,350.0,7.141382044770683
+P-1022,Manzanita Sol,Refresco de manzana gaseoso,True,5.99,600.0,9.832613144506729
+P-1023,Manzanita Sol,Refresco de manzana gaseoso,True,7.99,1000.0,14.973348259832315
+P-1024,Manzanita Sol,Refresco de manzana gaseoso,True,9.98,2500.0,16.884408338225523
+P-1025,Manzanita Sol,Refresco de manzana gaseoso,True,12.98,3000.0,21.429543036538853
+P-1026,Boing Mango,Refresco de mango no gaseoso,False,4.8,350.0,8.468260059330268
+P-1027,Boing Mango,Refresco de mango no gaseoso,False,3.99,600.0,7.451600605623125
+P-1028,Boing Mango,Refresco de mango no gaseoso,False,5.99,1000.0,10.828691666976884
+P-1029,Boing Mango,Refresco de mango no gaseoso,False,7.99,2500.0,13.044572279927127
+P-1030,Boing Mango,Refresco de mango no gaseoso,False,10.98,3000.0,20.62319358232227
+P-1031,Boing Guayaba,Refresco de guayaba no gaseoso,False,4.8,350.0,7.907211772824788
+P-1032,Boing Guayaba,Refresco de guayaba no gaseoso,False,3.99,600.0,7.369623224503949
+P-1033,Boing Guayaba,Refresco de guayaba no gaseoso,False,5.99,1000.0,10.812031753152684
+P-1034,Boing Guayaba,Refresco de guayaba no gaseoso,False,7.99,2500.0,13.295575243466509
+P-1035,Boing Guayaba,Refresco de guayaba no gaseoso,False,10.98,3000.0,18.731324172393315
+P-1036,Del Valle Naranja,Refresco de naranja no gaseoso,False,2.99,350.0,5.623278410747791
+P-1037,Del Valle Naranja,Refresco de naranja no gaseoso,False,4.99,600.0,8.396861919910268
+P-1038,Del Valle Naranja,Refresco de naranja no gaseoso,False,6.99,1000.0,11.857788262833123
+P-1039,Del Valle Naranja,Refresco de naranja no gaseoso,False,8.99,2500.0,15.376937391414993
+P-1040,Del Valle Naranja,Refresco de naranja no gaseoso,False,11.98,3000.0,19.911635372978804
+P-1041,Mineral Agua Mineral,Agua mineral con gas,True,3.45,350.0,6.152935281798735
+P-1042,Mineral Agua Mineral,Agua mineral con gas,True,4.8,600.0,8.255257349051963
+P-1043,Mineral Agua Mineral,Agua mineral con gas,True,3.99,1000.0,6.849347675168403
+P-1044,Mineral Agua Mineral,Agua mineral con gas,True,5.99,2500.0,11.016179566354662
+P-1045,Mineral Agua Mineral,Agua mineral con gas,True,8.99,3000.0,14.88611644010824
+P-1046,Epura Agua Purificada,Agua purificada sin gas,False,4.56,350.0,7.503980962970743
+P-1047,Epura Agua Purificada,Agua purificada sin gas,False,1.5,600.0,2.4400447957835087
+P-1048,Epura Agua Purificada,Agua purificada sin gas,False,2.99,1000.0,5.333433257892798
+P-1049,Epura Agua Purificada,Agua purificada sin gas,False,4.99,2500.0,8.680269024045305
+P-1050,Epura Agua Purificada,Agua purificada sin gas,False,6.99,3000.0,12.053845519180827

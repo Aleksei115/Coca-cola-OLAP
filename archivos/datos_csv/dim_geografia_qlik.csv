@@ -1,0 +1,95 @@
+id_geo,nombre_estado,nombre_ciudad,region,pais
+GEO-0001,Aguascalientes,Aguascalientes,Centro,México
+GEO-0002,Aguascalientes,Calvillo,Centro,México
+GEO-0003,Aguascalientes,Jesus Maria,Centro,México
+GEO-0004,Baja California,Ensenada,Noroeste,México
+GEO-0005,Baja California,Mexicali,Noroeste,México
+GEO-0006,Baja California,Tijuana,Noroeste,México
+GEO-0007,Baja California Sur,La Paz,Noroeste,México
+GEO-0008,Baja California Sur,Loreto,Noroeste,México
+GEO-0009,Baja California Sur,Comondú,Noroeste,México
+GEO-0010,Chihuahua,Chihuahua,Norte,México
+GEO-0011,Chihuahua,Ciudad Juárez,Norte,México
+GEO-0012,Chihuahua,Parral,Norte,México
+GEO-0013,Coahuila,Saltillo,Norte,México
+GEO-0014,Coahuila,Monclova,Norte,México
+GEO-0015,Coahuila,Piedras Negras,Norte,México
+GEO-0016,Colima,Colima,Occidente,México
+GEO-0017,Colima,Manzanillo,Occidente,México
+GEO-0018,Colima,Tecomán,Occidente,México
+GEO-0019,Durango,Durango,Noroeste,México
+GEO-0020,Durango,Gómez Palacio,Noroeste,México
+GEO-0021,Durango,Lerdo,Noroeste,México
+GEO-0022,Guanajuato,León,Centro,México
+GEO-0023,Guanajuato,Irapuato,Centro,México
+GEO-0024,Guanajuato,Silao,Centro,México
+GEO-0025,Guerrero,Chilpancingo,Sur,México
+GEO-0026,Guerrero,Acapulco,Sur,México
+GEO-0027,Guerrero,Zihuatanejo,Sur,México
+GEO-0028,Hidalgo,Pachuca,Centro,México
+GEO-0029,Hidalgo,Tulancingo,Centro,México
+GEO-0030,Hidalgo,Tepeji del Río,Centro,México
+GEO-0031,Jalisco,Guadalajara,Occidente,México
+GEO-0032,Jalisco,Zapopan,Occidente,México
+GEO-0033,Jalisco,Tlaquepaque,Occidente,México
+GEO-0034,Jalisco,Tonala,Occidente,México
+GEO-0035,México,Toluca,Centro,México
+GEO-0036,México,Naucalpan,Centro,México
+GEO-0037,México,Ecatepec,Centro,México
+GEO-0038,Michoacán,Morelia,Occidente,México
+GEO-0039,Michoacán,Uruapan,Occidente,México
+GEO-0040,Michoacán,Lázaro Cárdenas,Occidente,México
+GEO-0041,Morelos,Cuernavaca,Centro,México
+GEO-0042,Morelos,Cuautla,Centro,México
+GEO-0043,Morelos,Jiutepec,Centro,México
+GEO-0044,Nayarit,Tepic,Noroeste,México
+GEO-0045,Nayarit,Tecuala,Noroeste,México
+GEO-0046,Nayarit,Ixtlán del Río,Noroeste,México
+GEO-0047,Nuevo León,Monterrey,Norte,México
+GEO-0048,Nuevo León,San Nicolás de los Garza,Norte,México
+GEO-0049,Nuevo León,Guadalupe,Norte,México
+GEO-0050,Oaxaca,Oaxaca,Sur,México
+GEO-0051,Oaxaca,Santa Cruz Xoxocotlán,Sur,México
+GEO-0052,Oaxaca,San Juan Bautista Tuxtepec,Sur,México
+GEO-0053,Puebla,Puebla,Centro,México
+GEO-0054,Puebla,Tehuacán,Centro,México
+GEO-0055,Puebla,San Martín Texmelucan,Centro,México
+GEO-0056,Querétaro,Querétaro,Centro,México
+GEO-0057,Querétaro,San Juan del Río,Centro,México
+GEO-0058,Querétaro,Corregidora,Centro,México
+GEO-0059,Quintana Roo,Cancún,Sureste,México
+GEO-0060,Quintana Roo,Playa del Carmen,Sureste,México
+GEO-0061,Quintana Roo,Chetumal,Sureste,México
+GEO-0062,San Luis Potosí,San Luis Potosí,Centro,México
+GEO-0063,San Luis Potosí,Soledad de Graciano Sánchez,Centro,México
+GEO-0064,San Luis Potosí,Rioverde,Centro,México
+GEO-0065,Sinaloa,Culiacán,Noroeste,México
+GEO-0066,Sinaloa,Mazatlán,Noroeste,México
+GEO-0067,Sinaloa,Los Mochis,Noroeste,México
+GEO-0068,Sonora,Hermosillo,Noroeste,México
+GEO-0069,Sonora,Ciudad Obregón,Noroeste,México
+GEO-0070,Sonora,Nogales,Noroeste,México
+GEO-0071,Tabasco,Villahermosa,Golfo,México
+GEO-0072,Tabasco,Cárdenas,Golfo,México
+GEO-0073,Tabasco,Huimanguillo,Golfo,México
+GEO-0074,Tamaulipas,Ciudad Victoria,Golfo,México
+GEO-0075,Tamaulipas,Tampico,Golfo,México
+GEO-0076,Tamaulipas,Reynosa,Golfo,México
+GEO-0077,Tlaxcala,Tlaxcala,Centro,México
+GEO-0078,Tlaxcala,Huamantla,Centro,México
+GEO-0079,Tlaxcala,Santa Ana Chiautempan,Centro,México
+GEO-0080,Veracruz,Xalapa,Golfo,México
+GEO-0081,Veracruz,Veracruz,Golfo,México
+GEO-0082,Veracruz,Córdoba,Golfo,México
+GEO-0083,Yucatán,Mérida,Sureste,México
+GEO-0084,Yucatán,Valladolid,Sureste,México
+GEO-0085,Yucatán,Tizimín,Sureste,México
+GEO-0086,Zacatecas,Zacatecas,Centro,México
+GEO-0087,Zacatecas,Fresnillo,Centro,México
+GEO-0088,Zacatecas,Río Grande,Centro,México
+GEO-0089,Campeche,Campeche,Sureste,México
+GEO-0090,Campeche,Ciudad del Carmen,Sureste,México
+GEO-0091,Campeche,Escárcega,Sureste,México
+GEO-0092,Ciudad de México,Iztapalapa,Sureste,México
+GEO-0093,Ciudad de México,Coyoacán,Sureste,México
+GEO-0094,Ciudad de México,Benito Juárez,Sureste,México
