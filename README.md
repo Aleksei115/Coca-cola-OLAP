@@ -3,7 +3,7 @@
 
 **Project 1** 
 
-**Invoices**
+**OLAP**
 
 **Structured Database**
 
