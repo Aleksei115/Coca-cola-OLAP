@@ -7,7 +7,7 @@
 
 **Structured Database**
 
-**Equipment 05**
+**Team 05**
 
 **Members**
 
